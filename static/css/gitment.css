@@ -3,7 +3,7 @@
     font-size: 14px;
     line-height: 1.5;
     color: #333;
-    word-wrap: break-word;
+    word-wrap: normal;
 }
 
 .gitment-container * {
