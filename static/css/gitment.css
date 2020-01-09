@@ -340,7 +340,7 @@ a.gitment-editor-logout-link:hover {
     font-size: 14px;
 
     line-height: 1.5;
-    word-wrap: break-word;
+    word-wrap: normal;
 }
 
 .gitment-editor-footer {
