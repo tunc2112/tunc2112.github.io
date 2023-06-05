@@ -54,7 +54,7 @@ ffmpeg -i "李克勤 - 梦如欢旧 旧欢如梦 (Live 2011).mp4" -vf vreverse -
 
 <video width="320" height="240" controls>
   <source src="李克勤 - 梦如欢旧 (reverse).mp4" type="video/mp4">
-  Xem trên Google Drive tại đây: [link](link)
+  Xem trên Google Drive tại đây: [link](link)t
 </video>
 
 Tiếng video đảo ngược này khá hài hước, đôi chỗ nghe được một vài chữ, nhìn chung không nghe rõ được ca sĩ hát gì, cảm giác như hết hơi vậy =)))
@@ -72,7 +72,7 @@ ffmpeg -i "BEYOND【緩慢】Official Music Video.mp4" -vf reverse "huanman_reve
 
 MV gốc xem tại đây:
 
-https://www.youtube.com/watch?v=Oxb40lBURW0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oxb40lBURW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <small>Nói thêm về MV 緩慢, trong đó có một số đoạn là đảo ngược từ cảnh quay thật, một số đoạn là ca sĩ thực hiện hành động ngược lại (ví dụ: đi giật lùi), và có thể có một số đoạn là quay tuyến tính. Mình thực hiện đảo ngược MV này để trải nghiệm =)))</small>
 
@@ -97,7 +97,7 @@ Dialogue: 0,0:01:12.00,0:01:12.00,Default,,0,0,0,,[rev end]
 
 rồi viết 1 code Python ngắn để trích ra điểm bắt đầu và điểm kết thúc của từng chữ, sau đó cắt ra từng đoạn audio nhỏ (mỗi audio là cách hát từng chữ, hoặc là khoảng trống, tất cả các đoạn audio liên tục)
 
-*chèn link snippet code Python*
+<script src="https://gist.github.com/tunc2112/f64e7c776150b32ca96b24be6beee280.js"></script>
 
 rồi ghép ngược lại thành một file audio không nhạc theo lời bài hát gốc, thành một file audio "đảo ngược của đảo ngược" hoàn chỉnh.
 
