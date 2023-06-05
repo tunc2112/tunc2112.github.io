@@ -108,7 +108,7 @@ ffmpeg -f concat -safe 0 -i char_reverse.txt -c copy vocals_reverse_char.mp3
 Sau khi ghép từ tất cả các file audio "hát" từng chữ thành 1 file `vocals_char_reverse.mp3` hoàn chỉnh, ta cùng nghe thử:
 
 <audio controls>
-  <source src="vocals_char_reverse.mp3" type="audio/mpeg">
+  <source src="/static/reverse-video/vocals_char_reverse.mp3" type="audio/mpeg">
   Xem trên Google Drive tại đây: [link](link)
 </audio>
 
@@ -119,7 +119,7 @@ Có thể nói phiên bản "đảo ngược của đảo ngược" này khá đ
 Lần này mình đảo ngược phần nhạc nền và chồng với file "đảo ngược của đảo ngược". Vì chưa biết cách chồng 2 file audio vào với nhau nên mình mở audio bằng Audacity, giảm bớt âm lượng của phần nhạc nền (tại tool AI kia) rồi export ra file cuối cùng.
 
 <audio controls>
-  <source src="vocals_char_music_reverse.mp3" type="audio/mpeg">
+  <source src="/static/reverse-video/vocals_char_music_reverse.mp3" type="audio/mpeg">
   Xem trên Google Drive tại đây: [link](link)
 </audio>
 
