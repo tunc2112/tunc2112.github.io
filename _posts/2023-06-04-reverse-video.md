@@ -1,7 +1,7 @@
 ---
-title: Làm trò: Đảo ngược audio/video với ffmpeg
+title: Làm trò: Đảo ngược audio, video với ffmpeg
 tags: programming audio-processing ffmpeg
-categories: làm-trò
+categories: playground
 ---
 
 ## story
