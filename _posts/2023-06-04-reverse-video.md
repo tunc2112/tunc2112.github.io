@@ -4,8 +4,6 @@ tags: programming audio-processing ffmpeg
 categories: playground
 ---
 
-## story
-
 Một ngày đẹp trời, khi mình đang dạo bilibili tìm video nhạc Lý Khắc Cần (Hacken) để làm sub thì tóm được video này: Mộng như hoan cựu - Cựu hoan như mộng (夢如歡舊 - 舊歡如夢). Mình vốn chỉ biết có một bài hát được phát hành là Cựu hoan như mộng (舊歡如夢, người ta hay dịch là Mộng đẹp ngày xưa nhưng mình không thích cái tên đó :v) thôi, còn Mộng như hoan cựu thì... Có thể các bạn đã thấy có điều gì đó hơi lạ lạ rồi.
 
 Xem video gốc tại đây:
