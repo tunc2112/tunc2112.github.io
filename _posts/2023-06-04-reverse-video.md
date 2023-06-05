@@ -53,8 +53,8 @@ ffmpeg -i "李克勤 - 梦如欢旧 旧欢如梦 (Live 2011).mp4" -vf vreverse -
 ```
 
 <video width="320" height="240" controls>
-  <source src="李克勤 - 梦如欢旧 (reverse).mp4" type="video/mp4">
-  Xem trên Google Drive tại đây: [link](link)t
+  <source src="/static/reverse-video/李克勤 - 梦如欢旧 (reverse).mp4" type="video/mp4">
+  Xem trên Google Drive tại đây: [link](link)
 </video>
 
 Tiếng video đảo ngược này khá hài hước, đôi chỗ nghe được một vài chữ, nhìn chung không nghe rõ được ca sĩ hát gì, cảm giác như hết hơi vậy =)))
@@ -66,7 +66,7 @@ ffmpeg -i "BEYOND【緩慢】Official Music Video.mp4" -vf reverse "huanman_reve
 ```
 
 <video width="320" height="240" controls>
-  <source src="huanman_reverse.mp4" type="video/mp4">
+  <source src="/static/reverse-video/huanman_reverse.mp4" type="video/mp4">
   Xem trên Google Drive tại đây: [link](link)
 </video>
 
