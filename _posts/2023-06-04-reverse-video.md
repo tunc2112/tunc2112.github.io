@@ -6,9 +6,9 @@ categories: playground
 
 Một ngày đẹp trời, khi mình đang dạo bilibili tìm video nhạc Lý Khắc Cần (Hacken) để làm sub thì tóm được video này: Mộng như hoan cựu - Cựu hoan như mộng (夢如歡舊 - 舊歡如夢). Mình vốn chỉ biết có một bài hát được phát hành là Cựu hoan như mộng (舊歡如夢, người ta hay dịch là Mộng đẹp ngày xưa nhưng mình không thích cái tên đó :v) thôi, còn Mộng như hoan cựu thì... Có thể các bạn đã thấy có điều gì đó hơi lạ lạ rồi.
 
-Xem video gốc tại đây:
+Xem video gốc tại [đây](https://www.bilibili.com/video/BV1LW411Y778/):
 
-https://www.bilibili.com/video/BV1LW411Y778/
+<iframe src="https://player.bilibili.com/player.html?aid=16973656&bvid=BV1LW411Y778&cid=27746659&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 Lần đầu mình nghe thử, mình chỉ thấy bài đầu rất lạ, còn bài sau tất nhiên là một bài đã rất quen thuộc. Đến khi đọc lời bài hát thì mình mới biết là lời bài đầu tiên chính là đảo ngược lại của lời bài hát Cựu hoan như mộng gốc. Nửa sau của video cũng có chữ "Reverse" hiện trên màn hình LED.
 
