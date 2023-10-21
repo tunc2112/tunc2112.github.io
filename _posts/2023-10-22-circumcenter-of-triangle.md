@@ -51,10 +51,12 @@ $$
 \sin 2A + \sin 2B + \sin 2C
 = \dfrac{2 S_{ABC}}{(AB \times AC \times BC)^2} \times (\sum BC^2 (AB^2 + AC^2 - BC^2))
 $$
+
 $$
 x_A \sin 2A + x_B \sin 2B + x_C \sin 2C
 = \dfrac{2 S_{ABC}}{(AB \times AC \times BC)^2} \times (\sum x_A BC^2 (AB^2 + AC^2 - BC^2))
 $$
+
 $$
 y_A \sin 2A + y_B \sin 2B + y_C \sin 2C
 = \dfrac{2 S_{ABC}}{(AB \times AC \times BC)^2} \times (\sum y_A BC^2 (AB^2 + AC^2 - BC^2))
