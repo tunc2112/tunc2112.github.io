@@ -8,7 +8,7 @@ Một ngày đẹp trời, khi mình đang dạo bilibili tìm video nhạc Lý 
 
 Xem video gốc tại [đây](https://www.bilibili.com/video/BV1LW411Y778/):
 
-<iframe src="https://player.bilibili.com/player.html?aid=16973656&bvid=BV1LW411Y778&cid=27746659&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://player.bilibili.com/player.html?aid=16973656&bvid=BV1LW411Y778&cid=27746659" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 Lần đầu mình nghe thử, mình chỉ thấy bài đầu rất lạ, còn bài sau tất nhiên là một bài đã rất quen thuộc. Đến khi đọc lời bài hát thì mình mới biết là lời bài đầu tiên chính là đảo ngược lại của lời bài hát Cựu hoan như mộng gốc. Nửa sau của video cũng có chữ "Reverse" hiện trên màn hình LED.
 
