@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="https://cdn.bootcss.com/octicons/3.5.0/octicons.min.css" >
     <link rel="stylesheet" type="text/css" href="{{ '/static/css/style.css' | prepend: site.baseurl }}" />
-    <script type="text/x-mathjax-config">MathJax = { tex: { inlineMath: [['$', '$'], ["\\(", "\\)"]], processEscapes: true, } }</script>
+    <script>MathJax = { tex: { inlineMath: [['$', '$'], ["\\(", "\\)"]] } }</script>
     <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     {% for style in page.styles %}<link rel="stylesheet" type="text/css" href="{{ '/static/css/' | append: style | prepend: site.baseurl }}" />
     {%endfor%}
