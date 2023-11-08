@@ -4,118 +4,118 @@ layout: null
 
 .navbar-tiffany,
 .banner{
-    background: -webkit-linear-gradient(45deg, rgba(0 , 0, 0, 0) 48%, rgba(0 , 0, 0, 0.1) 50%, rgba(0 , 0, 0, 0) 52%),
-    -webkit-linear-gradient(135deg, rgba(0 , 0, 0, 0) 48%, rgba(0 , 0, 0, 0.1) 50%, rgba(0 , 0, 0, 0) 52%);
-    background: linear-gradient(45deg, rgba(0 , 0, 0, 0) 48%, rgba(0 , 0, 0, 0.1) 50%, rgba(0 , 0, 0, 0) 52%),
-    linear-gradient(-45deg, rgba(0 , 0, 0, 0) 48%, rgba(0 , 0, 0, 0.1) 50%, rgba(0 , 0, 0, 0) 52%);
-    -webkit-background-size: 1em 1em;
-    background-size: 1em 1em;
+	background: -webkit-linear-gradient(45deg, rgba(0 , 0, 0, 0) 48%, rgba(0 , 0, 0, 0.1) 50%, rgba(0 , 0, 0, 0) 52%),
+	-webkit-linear-gradient(135deg, rgba(0 , 0, 0, 0) 48%, rgba(0 , 0, 0, 0.1) 50%, rgba(0 , 0, 0, 0) 52%);
+	background: linear-gradient(45deg, rgba(0 , 0, 0, 0) 48%, rgba(0 , 0, 0, 0.1) 50%, rgba(0 , 0, 0, 0) 52%),
+	linear-gradient(-45deg, rgba(0 , 0, 0, 0) 48%, rgba(0 , 0, 0, 0.1) 50%, rgba(0 , 0, 0, 0) 52%);
+	-webkit-background-size: 1em 1em;
+	background-size: 1em 1em;
 }
 
 .navbar-tiffany{
-    background-color: #2ca6cb;
-    border-top: 1px solid rgba(255,255,255,0.2);
-    border-bottom: 1px solid rgba(0,0,0,0.1);
-    box-shadow: 2px 4px 5px rgba(3,3,3,0.2);
+	background-color: #2ca6cb;
+	border-top: 1px solid rgba(255,255,255,0.2);
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	box-shadow: 2px 4px 5px rgba(3,3,3,0.2);
 }
 
 .footnote-tiffany{
-    background: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.03) 50%, rgba(255, 255, 255, 0) 52%),
-    -webkit-linear-gradient(135deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.03) 50%, rgba(255, 255, 255, 0) 52%);
-    background: linear-gradient(45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.03) 50%, rgba(255, 255, 255, 0) 52%),
-    linear-gradient(-45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.03) 50%, rgba(255, 255, 255, 0) 52%);
-    -webkit-background-size: 1em 1em;
-    background-size: 1em 1em;
+	background: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.03) 50%, rgba(255, 255, 255, 0) 52%),
+	-webkit-linear-gradient(135deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.03) 50%, rgba(255, 255, 255, 0) 52%);
+	background: linear-gradient(45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.03) 50%, rgba(255, 255, 255, 0) 52%),
+	linear-gradient(-45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.03) 50%, rgba(255, 255, 255, 0) 52%);
+	-webkit-background-size: 1em 1em;
+	background-size: 1em 1em;
 }
 .footnote-tiffany{
-    background-color: #333333;
-    border-color: #2ca6cb;
-    box-shadow: 2px -4px 5px rgba(3,-3,3,0.2);
+	background-color: #333333;
+	border-color: #2ca6cb;
+	box-shadow: 2px -4px 5px rgba(3,-3,3,0.2);
 }
 
 
 .navbar-tiffany .navbar-brand,
 .navbar-tiffany .navbar-text,
 .navbar-tiffany .nav>li>a{
-    color: #fff;
+	color: #fff;
 }
 
 
 .navbar-tiffany .nav>li>a:hover,
 .navbar-tiffany .nav>li>a:focus,
 .navbar-tiffany .nav>li.active>a {
-    background: rgba(0, 0, 0, 0.2);
-    color: #fff;
+	background: rgba(0, 0, 0, 0.2);
+	color: #fff;
 }
 .navbar-tiffany .navbar-toggle{
-    border-color: #fff;
+	border-color: #fff;
 }
 
 .navbar-tiffany .navbar-toggle .icon-bar{
-    background-color: #fff;
+	background-color: #fff;
 }
 
 .navbar-nav>li>a{
-    line-height: 1.42857143;
+	line-height: 1.42857143;
 }
 
 .footnote-tiffany a,
 .footnote-tiffany span{
-    color:#fff;
+	color:#fff;
 
 }
 .footnote .foot-item{
-    display: inline-block;
-    width: 28px;
-    height: 28px;
-    line-height: 28px;
-    font-size: 18px;
-    text-align: center;
-    background: rgba(255,255,255,0.1);
-    border-radius: 3px 3px;
-    -webkit-transition: background .4s ease-in-out;
-    -moz-transition: background .4s ease-in-out;
-    -ms-transition: background .4s ease-in-out;
-    -o-transition: background .4s ease-in-out;
-    transition: background .4s ease-in-out;
+	display: inline-block;
+	width: 28px;
+	height: 28px;
+	line-height: 28px;
+	font-size: 18px;
+	text-align: center;
+	background: rgba(255,255,255,0.1);
+	border-radius: 3px 3px;
+	-webkit-transition: background .4s ease-in-out;
+	-moz-transition: background .4s ease-in-out;
+	-ms-transition: background .4s ease-in-out;
+	-o-transition: background .4s ease-in-out;
+	transition: background .4s ease-in-out;
 }
 
 .footnote .foot-item:hover{
-    background-color: #2ca6cb;
-    -webkit-transition: background .4s ease-in-out;
-    -moz-transition: background .4s ease-in-out;
-    -ms-transition: background .4s ease-in-out;
-    -o-transition: background .4s ease-in-out;
-    transition: background .4s ease-in-out;
+	background-color: #2ca6cb;
+	-webkit-transition: background .4s ease-in-out;
+	-moz-transition: background .4s ease-in-out;
+	-ms-transition: background .4s ease-in-out;
+	-o-transition: background .4s ease-in-out;
+	transition: background .4s ease-in-out;
 }
 
 /* footer */
 .footnote{
-    min-height: 50px;
-    line-height: 50px;
-    margin-top: -50px;
-    text-align: center;
+	min-height: 50px;
+	line-height: 50px;
+	margin-top: -50px;
+	text-align: center;
 }
 
 html{
-    height: 100%;
-    padding: 0px 0px 0px 0px;
-    margin: 0px 0px 0px 0px;
+	height: 100%;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
 }
 body {
-    background-image: url({{ "/static/bg.jpg" | prepend: site.baseurl | prepend: site.url }});
-    height: 100%;
-    padding: 0px 0px 0px 0px;
-    margin: 0px 0px 0px 0px;
+	background-image: url({{ "/static/bg.jpg" | prepend: site.baseurl | prepend: site.url }});
+	height: 100%;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
 }
 
 body,code,pre{
-    font-family:  "Menlo", "Monaco", "Consolas", "Courier New", "monospace", "Helvetica", "Tahoma", "Arial",
-    "WenQuanYi Micro Hei", "文泉驿微米黑", "STXihei", "华文细黑", "Microsoft YaHei", "微软雅黑", "SimSun", "宋体", "Heiti", "黑体", sans-serif;
+	font-family:  "Menlo", "Monaco", "Consolas", "Courier New", "monospace", "Helvetica", "Tahoma", "Arial",
+	"WenQuanYi Micro Hei", "文泉驿微米黑", "STXihei", "华文细黑", "Microsoft YaHei", "微软雅黑", "SimSun", "宋体", "Heiti", "黑体", sans-serif;
 }
 
 body,.sheet,pre,code{
-    font-size: 17px;
+	font-size: 17px;
 }
 
 
@@ -125,17 +125,17 @@ a:hover {text-decoration: none}	/* 鼠标移动到链接上 */
 a:active {text-decoration: none}	/* 选定的链接 */
 
 .main{
-    min-height: 100%;
-    padding-bottom: 130px;
+	min-height: 100%;
+	padding-bottom: 130px;
 }
 
 .content{
-    padding-right: 0px;
-    padding-left: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
 }
 
 .sheet{
-    word-break: break-all;
+	// word-break: break-all;
 	background-color:#f8f8fd;
 	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
 	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
@@ -144,14 +144,14 @@ a:active {text-decoration: none}	/* 选定的链接 */
 }
 
 .sheet{
-    padding:10px 30px;
+	padding:10px 30px;
 }
 
 @media screen and (max-width: 767px) {
-    .sheet{
-        padding-left: 10px;
-        padding-right: 10px;
-    }
+	.sheet{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
 }
 
 /**
@@ -196,8 +196,8 @@ a:active {text-decoration: none}	/* 选定的链接 */
 }
 
 .word-keep{
-    display: inline-block;
-    word-break: keep-all;
+	display: inline-block;
+	word-break: keep-all;
 }
 
 .rectangle{
@@ -206,59 +206,59 @@ a:active {text-decoration: none}	/* 选定的链接 */
 
 
 @media (min-width: 1200px){
-    .col-lg-offset-1_5 {
-        margin-left: 12.5%;
-    }
+	.col-lg-offset-1_5 {
+		margin-left: 12.5%;
+	}
 }
 
 .pad-min,
 .pad-mid,
 .pad-lar{
-    display: block;
+	display: block;
 }
 .pad-min{
-    height: 20px;
+	height: 20px;
 }
 .pad-mid{
-    height: 50px;
+	height: 50px;
 }
 .pad-lar{
-    height: 80px;
+	height: 80px;
 }
 .scriptHub{
-    display: none!important;
+	display: none!important;
 }
 
 .st-ui-stamp{
-    display: none!important;
+	display: none!important;
 }
 
 /*** banner ***/
 .banner {
-    width: 100%;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    background-color: #2ca6cb;
-    display: none;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #2ca6cb;
+	display: none;
 }
 
 .banner h1{
-    font-size: 50px;
-    font-weight: bold;
+	font-size: 50px;
+	font-weight: bold;
 }
 
 
 .banner h1,
 .banner h3{
-    color: #ffffff;
-    text-align: center;
+	color: #ffffff;
+	text-align: center;
 }
 .banner h3{
-    line-height: 1.5;
+	line-height: 1.5;
 }
 
 @media screen and (max-width: 767px) {
-    .banner h1{
-        font-size: 36px;
-    }
+	.banner h1{
+		font-size: 36px;
+	}
 }
